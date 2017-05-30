@@ -3,8 +3,9 @@ body {
   height: 300px;
 }
 
-#printchatbox {
+.printLetter {
   font-family: "Helvetica", sans-serif;
-  color: #fff;
-  font-size: 30px;
+  color: #d0fb00;
+  font-size: 100px;
+  text-align: center;
 }
